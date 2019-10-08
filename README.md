@@ -2,7 +2,7 @@
 ![avatar](https://avatars3.githubusercontent.com/u/50399426?s=100&v=4)
 ***
 ## Etudiant en développement web à la **Wild Code School**
-* **Présentation**
+* **Présentation**  
   _Actuellement en formation de développeur web à la Wild Code School de Nantes, je recherche un stage pour valider mes acquis. Féru d'informatique et de nouvelles technologies en général, je me tiens au courant des dernières annonces dans le domaine. Mes différentes expériences passées m'ont permises d'acquérir une rigeur et une flexibilité dans mon travail._
 * **Formation**
     * Formation Web Dev (Wild Code School) - _Nantes_ - 2019/2020
